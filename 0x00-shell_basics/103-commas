@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --almost-all awk sort-t sed-e-t 
+ls -amvp

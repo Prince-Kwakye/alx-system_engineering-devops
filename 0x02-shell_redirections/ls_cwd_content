@@ -1,0 +1,15 @@
+total 0
+drwxr-xr-x 1 prince prince 4096 May 15 23:01 .
+drwxr-xr-x 1 prince prince 4096 May 15 22:39 ..
+-rwxr-xr-x 1 prince prince   32 May 15 22:41 0-hello_world
+-rwxr-xr-x 1 prince prince   28 May 15 22:44 1-confused_smiley
+-rwxr-xr-x 1 prince prince   28 May 15 22:46 2-hellofile
+-rwxr-xr-x 1 prince prince   39 May 15 22:49 3-twofiles
+-rwxr-xr-x 1 prince prince   35 May 15 22:51 4-lastlines
+-rwxr-xr-x 1 prince prince   35 May 15 22:53 5-firstlines
+-rwxr-xr-x 1 prince prince   40 May 15 22:55 6-third_line
+-rwxr-xr-x 1 prince prince   99 May 15 22:58 7-file
+-rwxr-xr-x 1 prince prince   36 May 15 23:01 8-cwd_state
+-rw-r--r-- 1 prince prince   32 May 15 22:40 README.md
+-rw-r--r-- 1 prince prince   12 May 15 22:59 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 prince prince    0 May 15 23:01 ls_cwd_content
